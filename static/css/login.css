@@ -1,0 +1,24 @@
+body {
+    background-color: #999999;
+}
+
+
+#loginform {
+    width: 400px;
+    height: 400px;
+    margin: 100px auto;
+    background-color: #fff;
+    padding: 50px 20px;
+}
+
+.logincontent {
+    margin: 50px auto;
+}
+
+.cue {
+    color: red  !important;
+};
+
+.coderimg {
+    margin-left: 50px;
+}
